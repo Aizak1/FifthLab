@@ -1,0 +1,7 @@
+D:\c#projects\FifthLab\ThirdTask\bin\Debug\ThirdTask.exe.config
+D:\c#projects\FifthLab\ThirdTask\bin\Debug\ThirdTask.exe
+D:\c#projects\FifthLab\ThirdTask\bin\Debug\ThirdTask.pdb
+D:\c#projects\FifthLab\ThirdTask\obj\Debug\ThirdTask.csprojAssemblyReference.cache
+D:\c#projects\FifthLab\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+D:\c#projects\FifthLab\ThirdTask\obj\Debug\ThirdTask.exe
+D:\c#projects\FifthLab\ThirdTask\obj\Debug\ThirdTask.pdb

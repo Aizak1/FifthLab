@@ -1,0 +1,6 @@
+D:\c#projects\FifthLab\FifthLab\bin\Debug\FifthLab.exe.config
+D:\c#projects\FifthLab\FifthLab\bin\Debug\FifthLab.exe
+D:\c#projects\FifthLab\FifthLab\bin\Debug\FifthLab.pdb
+D:\c#projects\FifthLab\FifthLab\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+D:\c#projects\FifthLab\FifthLab\obj\Debug\FifthLab.exe
+D:\c#projects\FifthLab\FifthLab\obj\Debug\FifthLab.pdb

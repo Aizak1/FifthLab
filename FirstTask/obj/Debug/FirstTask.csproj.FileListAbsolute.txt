@@ -1,0 +1,6 @@
+D:\c#projects\FifthLab\FirstTask\bin\Debug\FirstTask.dll
+D:\c#projects\FifthLab\FirstTask\bin\Debug\FirstTask.pdb
+D:\c#projects\FifthLab\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+D:\c#projects\FifthLab\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+D:\c#projects\FifthLab\FirstTask\obj\Debug\FirstTask.dll
+D:\c#projects\FifthLab\FirstTask\obj\Debug\FirstTask.pdb
